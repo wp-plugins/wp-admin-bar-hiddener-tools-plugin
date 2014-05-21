@@ -12,6 +12,9 @@ This is just any wordpress site any visitor and Of all users ‍hidden wordpress
 
 This is just any wordpress site any visitor and Of all users ‍hidden wordpress admin bar.
 
+My Other Plugin Download: 
+SP 1KB Bangla Date And Time
+http://wordpress.org/plugins/sp-1kb-bangla-date-and-time/
 
 == Installation ==
 
