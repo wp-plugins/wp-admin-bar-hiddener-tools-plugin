@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: wp admin bar hiddener tools plugin
-Plugin URI: http://www.shaplahost.com/plugins/wp-admin-bar-hiddener-tools-plugin
+Plugin URI: http://www.wordpress.org/plugins/wp-admin-bar-hiddener-tools-plugin
 Description: This is just any wordpress site any visitor and Of all users ‍hidden wp admin bar.
 Version: 1.0
 Author: Md Abul Bashar
