@@ -1,0 +1,32 @@
+=== wp admin bar hiddener tools plugin ===
+Tags: Wordpress Plugin, Wordpress Admin Bar Hide, WP Admin bar hide. 1KB Plugin
+Requires at least: 3.0.1
+Tested up to: 3.4
+Stable tag: 4.3
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+This is just any wordpress site any visitor and Of all users ‍hidden wordpress admin bar.
+
+== Description ==
+
+This is just any wordpress site any visitor and Of all users ‍hidden wordpress admin bar.
+
+
+== Installation ==
+
+* Just Upload `wp admin bar hiddener tools plugin` to the `/wp-content/plugins/` directory
+* Activate the plugin through the 'Plugins' menu in WordPress
+* And enjoy this plugin.
+
+== Frequently Asked Questions ==
+
+
+
+== Screenshots ==
+
+
+== Changelog ==
+
+= 1.0 =
+* Initial Release.
